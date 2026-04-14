@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=FiveM+Vehicle+Developer;Handling+Specialist;GTA+V+Modding+Expert" />
+  <b>FiveM Vehicle Developer</b> • 
+  <span style="color:#ff4d4d;"><b>Handling Specialist</b></span> • 
+  <b>GTA V Modding Expert</b>
 </p>
 
 ---
@@ -13,13 +15,14 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,ps,github,mysql,lua" />
+  <img src="https://skillicons.dev/icons?i=blender,ps,github,mysql,lua,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GTA_V-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ZModeler-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenIV-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -30,13 +33,15 @@
 
 ## 🚀 Featured Work
 
-🚓 Custom Police Vehicles
-🏎️ High Performance Cars
-🚕 Realistic Taxi Vehicles
+<p align="center">
+🚓 Custom Police Vehicles &nbsp;&nbsp;|&nbsp;&nbsp;
+🏎️ High Performance Cars &nbsp;&nbsp;|&nbsp;&nbsp;
+🚕 Realistic Taxi Vehicles &nbsp;&nbsp;|&nbsp;&nbsp;
 🚚 Service & Utility Vehicles
+</p>
 
 <p align="center">
-  👉 Check my repositories for previews & downloads
+👉 Check my repositories for previews & downloads
 </p>
 
 ---
@@ -52,12 +57,6 @@
     <img src="https://img.shields.io/badge/Email-info@sungerbob.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-
-> I tune cars more than I drive them 😅
 
 ---
 
