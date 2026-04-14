@@ -1,6 +1,6 @@
 # My-Profile
 
-# 🚗 Hi, I'm Yasin
+# 🚗 Hi, I'm Süngerbob 
 
 ### 🛠️ FiveM Car Developer | Vehicle Modding Specialist
 
@@ -22,7 +22,6 @@ I specialize in creating, optimizing, and customizing vehicles for FiveM servers
 
 ![FiveM](https://img.shields.io/badge/-FiveM-black?style=for-the-badge)
 ![GTA V](https://img.shields.io/badge/-GTA%20V-grey?style=for-the-badge)
-![ZModeler](https://img.shields.io/badge/-ZModeler-blue?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge)
 
 ---
@@ -46,8 +45,8 @@ I specialize in creating, optimizing, and customizing vehicles for FiveM servers
 
 ## 📫 Contact Me
 
-* Discord: yourname#0000
-* Email: [your@email.com](mailto:your@email.com)
+* Discord: .sungerbobb
+* Email: info@sungerbob.nl
 
 ---
 
