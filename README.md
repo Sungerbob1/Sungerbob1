@@ -21,13 +21,16 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,ps,github" />
+  <img src="https://skillicons.dev/icons?i=blender,ps,github,mysql" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GTA_V-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ZModeler-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
