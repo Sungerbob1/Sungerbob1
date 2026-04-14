@@ -10,14 +10,6 @@
 
 ---
 
-## 🧠 About Me
-
-💻 Specialized in FiveM vehicle development
-🚗 Passion for realistic car physics & design
-🎯 Focused on performance, quality & detail
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -49,32 +41,15 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOUWNAAM&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=JOUWNAAM&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOUWNAAM&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/JOUWNAAM/JOUWNAAM/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Contact
 
 <p align="center">
   <a href="https://discord.com/users/.sungerbobb">
     <img src="https://img.shields.io/badge/Discord-.sungerbobb-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <br><br>
+  <a href="mailto:info@sungerbob.nl">
+    <img src="https://img.shields.io/badge/Email-info@sungerbob.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
